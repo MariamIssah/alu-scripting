@@ -1,6 +1,6 @@
 #!/usr/bin/python
 """
-Reddit API for recursively fetching all hot posts.
+Reddit API module to recursively get all hot post titles of a subreddit.
 """
 import requests
 
